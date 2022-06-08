@@ -1,0 +1,7 @@
+var obj= {"name": "Priya",
+"age": 24,
+"score": 33,
+"is admin": null,
+"license": false,
+"shop items": ["food","clothes","sunflower oil"]}
+
