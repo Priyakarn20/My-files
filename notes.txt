@@ -1,0 +1,7 @@
+difference between global, functional and block scope
+scopes defines the boundary where we can access the variables and functions defined.
+global variables are accessible everywhere in our file . 
+eg. let a = 22; 
+var b = 44; ... this is written in global scope .
+functional variables are accessible in functional scope .
+eg. 
