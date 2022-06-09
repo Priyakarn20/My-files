@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 var obj= {"name": "Priya",
 "age": 24,
 "score": 33,
@@ -6,11 +6,23 @@ var obj= {"name": "Priya",
 "license": false,
 "shop items": ["food","clothes","sunflower oil"]}
 
-=======
+
 var obj= {"name": "Priya",
 "age": 24,
 "score": 33,
 "is admin": null,
-"license": false,
-"shop items": ["food","clothes","sunflower oil"]}
+"license": true,
+"dhaba items": ["chicken tikka","Murgh Malai kabab", "Chicken lollypop","Paneer tikka",
+    "Honey chilli potatoes","Butter chicken Masala","Kadai chicken","Dhaba murgh masala"]}
+
+function add()
+{ console.log(55+7)};
+add();
+function subtract()
+{ console.log(55-7)};
+subtract();
+function division()
+{ console.log(55/7)};
+division();
+
 
