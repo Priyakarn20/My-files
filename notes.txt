@@ -8,7 +8,7 @@ variables declared in curly braces {}, accessible only in those braces and not o
 
 diff. between var, let and const
 variables written by using var is global as well as functional scope. Var variables can be used again and again.
-let and const ...block scope 
-const variables have fixed value'
+let and const ...block scope , let cannot be declared multiple times like var .
+const variables have fixed value .
 
 hoisting - a feature in which variable and function declaration move to top automatically .

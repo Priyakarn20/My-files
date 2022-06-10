@@ -1,0 +1,5 @@
+API(Application Programming Interface) - a software that enable two applications to interact with each other ,
+ A middle man between two application or system .
+ It makes transfer of data between the two easy .
+ eg. zomato delievery person is API between zomato and client , because of him ..they interact with each other .
+ 
